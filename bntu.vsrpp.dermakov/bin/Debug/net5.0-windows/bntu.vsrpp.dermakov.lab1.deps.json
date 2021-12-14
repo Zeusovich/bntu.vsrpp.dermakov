@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bntu.vsrpp.dermakov.lab1/1.0.0": {
+        "dependencies": {
+          "bntu.vsrpp.dermakov.Core": "1.0.0"
+        },
+        "runtime": {
+          "bntu.vsrpp.dermakov.lab1.dll": {}
+        }
+      },
+      "bntu.vsrpp.dermakov.Core/1.0.0": {
+        "runtime": {
+          "bntu.vsrpp.dermakov.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bntu.vsrpp.dermakov.lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bntu.vsrpp.dermakov.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

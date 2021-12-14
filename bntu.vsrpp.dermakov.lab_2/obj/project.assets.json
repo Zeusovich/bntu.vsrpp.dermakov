@@ -1,0 +1,188 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "OxyPlot.Core/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OxyPlot.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/OxyPlot.dll": {}
+        }
+      },
+      "OxyPlot.WindowsForms/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "OxyPlot.Core": "2.1.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/OxyPlot.WindowsForms.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OxyPlot.WindowsForms.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "OxyPlot.Core/2.1.0": {
+      "sha512": "jG+Ct3T59fXDG2LE1hyUaXqH7i+h5Nfway1iB0+0NaY2mvDsz8Row/BKjiBWCt5NHp3+q9JSMiD2wpin2hh3kw==",
+      "type": "package",
+      "path": "oxyplot.core/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "OxyPlot_128.png",
+        "lib/net40/OxyPlot.dll",
+        "lib/net40/OxyPlot.xml",
+        "lib/net45/OxyPlot.dll",
+        "lib/net45/OxyPlot.xml",
+        "lib/netstandard1.0/OxyPlot.dll",
+        "lib/netstandard1.0/OxyPlot.xml",
+        "lib/netstandard2.0/OxyPlot.dll",
+        "lib/netstandard2.0/OxyPlot.xml",
+        "oxyplot.core.2.1.0.nupkg.sha512",
+        "oxyplot.core.nuspec"
+      ]
+    },
+    "OxyPlot.WindowsForms/2.1.0": {
+      "sha512": "3ehmpvSbTKUOfUSeZdfIyed5kGMdgPGq/MCXi1NXqzDqQhbUZ6OwVrRnfcLKB32WtnDAzwAtchirEaAFPo5iig==",
+      "type": "package",
+      "path": "oxyplot.windowsforms/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "OxyPlot_128.png",
+        "lib/net40/OxyPlot.WindowsForms.dll",
+        "lib/net40/OxyPlot.WindowsForms.xml",
+        "lib/net45/OxyPlot.WindowsForms.dll",
+        "lib/net45/OxyPlot.WindowsForms.xml",
+        "lib/netcoreapp3.1/OxyPlot.WindowsForms.dll",
+        "lib/netcoreapp3.1/OxyPlot.WindowsForms.xml",
+        "oxyplot.windowsforms.2.1.0.nupkg.sha512",
+        "oxyplot.windowsforms.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Newtonsoft.Json >= 13.0.1",
+      "OxyPlot.WindowsForms >= 2.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Danya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\proga\\VSRPP\\bntu.vsrpp.dermakov\\bntu.vsrpp.dermakov\\bntu.vsrpp.dermakov.lab_2\\bntu.vsrpp.dermakov.lab2.csproj",
+      "projectName": "bntu.vsrpp.dermakov.lab2",
+      "projectPath": "E:\\proga\\VSRPP\\bntu.vsrpp.dermakov\\bntu.vsrpp.dermakov\\bntu.vsrpp.dermakov.lab_2\\bntu.vsrpp.dermakov.lab2.csproj",
+      "packagesPath": "C:\\Users\\Danya\\.nuget\\packages\\",
+      "outputPath": "E:\\proga\\VSRPP\\bntu.vsrpp.dermakov\\bntu.vsrpp.dermakov\\bntu.vsrpp.dermakov.lab_2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Danya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "OxyPlot.WindowsForms": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

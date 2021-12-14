@@ -1,0 +1,12 @@
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\bin\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.deps.json
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\bin\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.dll
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\bin\Debug\net5.0\ref\bntu.vsrpp.dermakov.XMLLibrary.dll
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\bin\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.pdb
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.AssemblyInfoInputs.cache
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.AssemblyInfo.cs
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.csproj.CoreCompileInputs.cache
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.dll
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\ref\bntu.vsrpp.dermakov.XMLLibrary.dll
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.pdb
+E:\proga\VSRPP\bntu.vsrpp.emorozov\bntu.vsrpp.dermakov.XMLLibrary\obj\Debug\net5.0\bntu.vsrpp.dermakov.XMLLibrary.csproj.AssemblyReference.cache
